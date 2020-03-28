@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da6e2cc-2be5-4631-859e-350285cf81dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/mi-bachelor-screendesign-doku.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Alles.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Arbeitsplatz-Geöffnet+Hover.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Arbeitsplatz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Buttons/Buttons.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Buttons/Minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Buttons/plus_normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Cranachderaeltere.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Dropdown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Navi_Archive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Suche.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZkkQwlXr042ixcTdQNALXKfce2" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/Buttons" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\Buttons" />
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da6e2cc-2be5-4631-859e-350285cf81dd" name="Default Changelist" comment="" />
+      <created>1585390466085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585390466085</updated>
+      <workItem from="1585390467221" duration="5787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

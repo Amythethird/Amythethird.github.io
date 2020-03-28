@@ -1,0 +1,54 @@
+<svg id="Dropdown" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="161" viewBox="0 0 145 161">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="11" height="74" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Dropdown-2" data-name="Dropdown" transform="translate(0 11)" fill="#fc0" stroke="#707070" stroke-width="1">
+    <rect width="145" height="150" stroke="none"/>
+    <rect x="0.5" y="0.5" width="144" height="149" fill="none"/>
+  </g>
+  <text id="Infrarot-Fotografie" transform="translate(9 116)" fill="#222" font-size="8" font-family="Roboto-LightItalic, Roboto" font-weight="300" font-style="italic"><tspan x="0" y="0">Infrarot-Fotografie</tspan></text>
+  <text id="Nachahmer_Cranach_s" data-name="Nachahmer Cranach´s" transform="translate(9 102)" fill="#222" font-size="8" font-family="Roboto-LightItalic, Roboto" font-weight="300" font-style="italic"><tspan x="0" y="0">Nachahmer Cranach´s</tspan></text>
+  <text id="Lucas_Cranach_der_Jüngere" data-name="Lucas Cranach der Jüngere" transform="translate(9 86)" fill="#222" font-size="8" font-family="Roboto-LightItalic, Roboto" font-weight="300" font-style="italic"><tspan x="0" y="0">Lucas Cranach der Jüngere</tspan></text>
+  <text id="Lucas_Cranach_der_Ältere" data-name="Lucas Cranach der Ältere" transform="translate(9 70)" fill="#222" font-size="8" font-family="Roboto-LightItalic, Roboto" font-weight="300" font-style="italic"><tspan x="0" y="0">Lucas Cranach der Ältere</tspan></text>
+  <g id="Wiederholungsraster_3" data-name="Wiederholungsraster 3" transform="translate(114 62)" clip-path="url(#clip-path)">
+    <g transform="translate(-3644 194)">
+      <g id="Rechteck_21" data-name="Rechteck 21" transform="translate(3644 -194)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="11" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-3644 209)">
+      <g id="Rechteck_21-2" data-name="Rechteck 21" transform="translate(3644 -194)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="11" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-3644 224)">
+      <g id="Rechteck_21-3" data-name="Rechteck 21" transform="translate(3644 -194)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="11" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-3644 239)">
+      <g id="Rechteck_21-4" data-name="Rechteck 21" transform="translate(3644 -194)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="11" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+      </g>
+    </g>
+    <g transform="translate(-3644 254)">
+      <g id="Rechteck_21-5" data-name="Rechteck 21" transform="translate(3644 -194)" fill="#fff" stroke="#707070" stroke-width="1">
+        <rect width="11" height="12" stroke="none"/>
+        <rect x="0.5" y="0.5" width="10" height="11" fill="none"/>
+      </g>
+    </g>
+  </g>
+  <g id="Button" fill="#222" stroke="#707070" stroke-width="1">
+    <rect width="145" height="50" stroke="none"/>
+    <rect x="0.5" y="0.5" width="144" height="49" fill="none"/>
+  </g>
+  <text id="Filter" transform="translate(27 33)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">Filter</tspan></text>
+  <path id="Polygon_4" data-name="Polygon 4" d="M5,0l5,8.571H0Z" transform="translate(128 31) rotate(180)" fill="#600d09"/>
+  <text id="Infrarot-Fotografie-2" data-name="Infrarot-Fotografie" transform="translate(9 130)" fill="#222" font-size="8" font-family="Roboto-LightItalic, Roboto" font-weight="300" font-style="italic"><tspan x="0" y="0">Infrarot-Fotografie</tspan></text>
+</svg>
