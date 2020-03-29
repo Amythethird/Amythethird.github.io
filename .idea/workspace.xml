@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da6e2cc-2be5-4631-859e-350285cf81dd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Alles.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ansichten/Alles.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Arbeitsplatz-Geöffnet+Hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ansichten/Arbeitsplatz-Geöffnet+Hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Arbeitsplatz.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ansichten/Arbeitsplatz.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Bereich Groß_Auswahl.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ansichten/Bereich Groß_Auswahl.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Dropdown.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Dropdown.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Dropdown.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Dropdown.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Groß.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ansichten/Groß.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Gruppe 10.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Gruppe 10.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Gruppe 11.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Gruppe 11.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Gruppe 18.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Gruppe 18.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Gruppe 32.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Gruppe 32.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Gruppe 9.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Gruppe 9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Navi_Archive.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Navi_Archive.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Suche.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icons_buttons/Suche.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ansichten/hexagons.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,15 +21,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img/Buttons" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\icons_buttons" />
-      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\ansichten" />
-      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\gemälde" />
-      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\Buttons" />
       <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\ansichten" />
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img" />
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\icons_buttons" />
+      <recent name="E:\Projekte\mi-bachelor-screendesign-doku\img\gemälde" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -70,6 +56,7 @@
       <updated>1585390466085</updated>
       <workItem from="1585390467221" duration="5787000" />
       <workItem from="1585494518875" duration="506000" />
+      <workItem from="1585495413810" duration="235000" />
     </task>
     <servers />
   </component>
