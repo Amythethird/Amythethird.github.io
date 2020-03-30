@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6da6e2cc-2be5-4631-859e-350285cf81dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/ansichten/hexagons.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="6da6e2cc-2be5-4631-859e-350285cf81dd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +15,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/Buttons" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CMS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -57,6 +54,7 @@
       <workItem from="1585390467221" duration="5787000" />
       <workItem from="1585494518875" duration="506000" />
       <workItem from="1585495413810" duration="235000" />
+      <workItem from="1585508735214" duration="8000" />
     </task>
     <servers />
   </component>
